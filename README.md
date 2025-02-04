@@ -65,6 +65,12 @@ Running the Scripts:
 - **Keyword-Based Extraction:** Enhance the scripts to extract data only when specific keywords match, automatically filtering results. The data will then be saved to a Google Sheets link, accessible to anyone.
 
 
+## Sources Used
+- **Stack Overflow:** Utilized for solving specific programming challenges and understanding best practices in web scraping with Python.
+- **BeautifulSoup Documentation:** Referenced for learning how to parse HTML and XML documents efficiently.
+- **HTML Script Documentation:** Studied to understand the structure of web pages and how to effectively target elements for scraping.
+- **Open Source HTML Script Scraper Codes:** Reviewed various open-source projects to gather insights and inspiration for implementing scraping functionalities, adapting existing solutions to fit the needs of this project.
+
 ## Contributions
 Contributions are welcome! If you find bugs or have suggestions for improvements:
 Fork the repository
